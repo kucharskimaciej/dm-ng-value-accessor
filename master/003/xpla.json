@@ -1,0 +1,21 @@
+{
+  "xpla.version": 1,
+  "name": "Custom A2 controls using NG_VALUE_ACCESSOR",
+  "date": "16th Feb 2017",
+  "link": "https://short.link/",
+  "author": {
+    "name": "Maciej Kucharski",
+    "link": "maciek.zir+dm@gmail.com"
+  },
+  "runner": "webpack",
+  "branches": [
+    {
+      "name": "master",
+      "title": "NG_VALUE_ACCESSOR"
+    }
+  ],
+  "ignore": [
+    "LICENSE",
+    "yarn.lock"
+  ]
+}
